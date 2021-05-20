@@ -1,0 +1,10 @@
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\bin\Debug\PipefyTest.exe.config
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\bin\Debug\PipefyTest.exe
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\bin\Debug\PipefyTest.pdb
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\bin\Debug\WebDriver.dll
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\bin\Debug\WebDriver.xml
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\obj\Debug\PipefyTest.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\obj\Debug\PipefyTest.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\obj\Debug\PipefyTest.csproj.CopyComplete
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\obj\Debug\PipefyTest.exe
+C:\Users\Diego\Desktop\SeleniumAccenture\PipefyTest\PipefyTest\obj\Debug\PipefyTest.pdb
