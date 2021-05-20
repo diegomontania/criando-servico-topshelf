@@ -19,3 +19,10 @@ C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\obj\Debug\PipefyTest.cspro
 C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\obj\Debug\PipefyTest.csproj.CopyComplete
 C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\obj\Debug\PipefyTest.exe
 C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\obj\Debug\PipefyTest.pdb
+C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\bin\Debug\nlog.config
+C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\bin\Debug\NLog.dll
+C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\bin\Debug\NLog.xml
+C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\bin\Debug\PipefyTest.exe.manifest
+C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\bin\Debug\PipefyTest.application
+C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\obj\Debug\PipefyTest.exe.manifest
+C:\Users\Diego\Desktop\Selenium\PipefyTest\PipefyTest\obj\Debug\PipefyTest.application
