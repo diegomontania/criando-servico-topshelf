@@ -32,6 +32,8 @@ namespace PipefyTest
                 _driver.Navigate().GoToUrl("https://www.pipefy.com");
                 _driver.Manage().Window.Maximize();
 
+                AbreNovaAba();
+
                 _driver.FindElement(By.LinkText("Entrar")).Click();
 
                 Thread.Sleep(2000);
@@ -56,10 +58,19 @@ namespace PipefyTest
             _logger.Info("Processo finalizado com sucesso");
         }
 
-        public void Stop() 
+        public void Stop()
         {
             _driver.Quit();
             _logger.Info("Parando serviço");
+        }
+
+        //https://stackoverflow.com/a/41587598/13156642
+        private void AbreNovaAba()
+        {
+            ((IJavaScriptExecutor)_driver).ExecuteScript("window.open();");
+            _driver.SwitchTo().Window(_driver.WindowHandles.Last());
+            _driver.Navigate().GoToUrl("http://www.google.com");
+            _driver.SwitchTo().Window(_driver.WindowHandles.First());
         }
     }
 }
